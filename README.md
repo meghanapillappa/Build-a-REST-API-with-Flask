@@ -1,5 +1,5 @@
 # Build-a-REST-API-with-Flask
-Build a CRUD API to manage user data (in-memory dictionary)
+
 This project is a simple REST API built with Flask . The API provides full CRUD (Create, Read, Update, Delete) functionality to manage user data stored in an in-memory dictionary. It demonstrates the fundamentals of API development, HTTP methods, and JSON handling in Python.
 
 The API has the following routes:
